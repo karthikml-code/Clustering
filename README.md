@@ -3,3 +3,6 @@ Clustering is like classification, but the basis is different. In Clustering you
 To most common Clustering methods are as follows,
   1. K-Means Clustering
   2. Hierarchical Clustering
+
+
+![image](https://user-images.githubusercontent.com/85920192/142436343-7e594805-2ad4-41a8-bd98-47c875b7eb70.png)
