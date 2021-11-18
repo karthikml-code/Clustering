@@ -1,4 +1,5 @@
 K-means Clustering Intuition:
+
 ![image](https://user-images.githubusercontent.com/85920192/142433197-bd3e3801-0303-47b5-b7f9-c74eb72f72d5.png)
 Steps to be followed,
   1. Choose the number K of clusters
